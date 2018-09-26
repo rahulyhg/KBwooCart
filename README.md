@@ -61,4 +61,4 @@ add_image_size( 'productCartThumb', 80, 100, false);
 ```
 into your_theme_catalog/footer.php
 
-6. Enjoy.
+6. **Enjoy**.
