@@ -60,4 +60,5 @@ add_image_size( 'productCartThumb', 80, 100, false);
 <?php echo get_template_part('template-parts/products/cartBlock') ?>
 ```
 into your_theme_catalog/footer.php
+
 6. Enjoy.
